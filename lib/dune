@@ -1,0 +1,13 @@
+(library
+ (name ReasonNativeTest)
+ (public_name reason-native-test)
+ (libraries
+  lwt
+  lwt.unix
+  ppx_rapper.runtime
+ )
+ (preprocess (pps
+  lwt_ppx
+  ppx_rapper
+ ))
+)

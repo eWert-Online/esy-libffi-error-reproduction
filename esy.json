@@ -1,0 +1,36 @@
+{
+  "name": "reason-native-test",
+  "version": "0.0.1",
+  "description": "A failing project build",
+  "esy": {
+    "build": "dune build -p #{self.name}",
+    "buildDev":
+      "dune build --promote-install-files --root . --only-package #{self.name}"
+  },
+  "dependencies": {
+    "@esy-ocaml/reason": ">= 3.6.0 < 4.0.0",
+    "@opam/calendar": "2.04",
+    "@opam/caqti": "1.2.3",
+    "@opam/caqti-driver-postgresql": "1.2.4",
+    "@opam/caqti-lwt": "1.2.0",
+    "@opam/caqti-type-calendar": "1.2.0",
+    "@opam/dune": "< 3.0.0",
+    "@opam/graphql": "0.13.0",
+    "@opam/graphql-lwt": "0.13.0",
+    "@opam/jwto": "0.3.0",
+    "@opam/lwt": "5.3.0",
+    "@opam/lwt_ppx": "2.0.1",
+    "@opam/multipart_form": "0.1.0",
+    "@opam/ppx_rapper": "2.0.0",
+    "@reason-native-web/morph": "0.6.1",
+    "@esy-ocaml/libffi": "*",
+    "esy-gmp": "esy-packages/esy-gmp",
+    "esy-zlib": "esy-packages/esy-zlib",
+    "esy-m4": "esy-packages/esy-m4"
+  },
+  "devDependencies": {
+    "@opam/merlin": "*",
+    "@opam/ocaml-lsp-server": "1.4.0",
+    "ocaml": ">= 4.2.0 < 4.11.0"
+  }
+}

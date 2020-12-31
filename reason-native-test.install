@@ -1,0 +1,19 @@
+lib: [
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/META"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/ReasonNativeTest.a"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/ReasonNativeTest.cma"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/ReasonNativeTest.cmxa"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/ReasonNativeTest.cmxs"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/ReasonNativeTest.re"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/dune-package"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/opam"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/reasonNativeTest.cmi"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/reasonNativeTest.cmt"
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/lib/reason-native-test/reasonNativeTest.cmx"
+]
+bin: [
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/bin/main"
+]
+doc: [
+  "/Users/ewert/Documents/Projekte/reason-native-server/_esy/default/store/b/reason_native_test-5ff515cf/install/default/doc/reason-native-test/README.md"
+]

@@ -1,0 +1,13 @@
+version: '3.2'
+
+services:
+  test:
+    stdin_open: true
+    tty: true
+    build:
+      dockerfile: Dockerfile
+      context: .
+    volumes:
+      - ./bin:/app/bin
+      - ./lib:/app/lib
+      - ./esy.json:/app/esy.json

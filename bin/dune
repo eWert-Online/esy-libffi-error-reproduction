@@ -1,0 +1,6 @@
+(executable
+  (name Main)
+  (public_name main)
+  (libraries ReasonNativeTest)
+  (modes byte exe)
+)
